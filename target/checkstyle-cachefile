@@ -1,0 +1,4 @@
+#Tue Oct 20 02:39:23 MSK 2026
+configuration*?=DA3D09AB55D4E4ABAB0AF4A138F3B4A59EC210B9
+module-resource*?\:checkstyle-suppressions.xml=D500DFB4CC459A9303BF9BCA766FD1FDE6333618
+module-resource*?\:checkstyle-xpath-suppressions.xml=48F98AC4D8B4AC846C9231B29C67374D96BA5072

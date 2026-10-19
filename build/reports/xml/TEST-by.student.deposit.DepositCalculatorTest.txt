@@ -1,0 +1,11 @@
+Testcase: by.student.deposit.DepositCalculatorTest
+Test: negativeRateIsRejected() took 16 milli sec(s)
+Test: totalDependsOnCapitalization() took 0 milli sec(s)
+Test: reportContainsKeyFields() took 16 milli sec(s)
+Test: interestIsPositive() took 0 milli sec(s)
+Test: compoundInterest() took 0 milli sec(s)
+Test: zeroRateDoesNotChangePrincipal() took 0 milli sec(s)
+Test: simpleInterest() took 0 milli sec(s)
+Test: negativePrincipalIsRejected() took 0 milli sec(s)
+Test: zeroYearsIsRejected() took 0 milli sec(s)
+Tests run: 9, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 48 milli sec(s)

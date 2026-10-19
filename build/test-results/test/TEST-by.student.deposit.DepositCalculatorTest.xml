@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Тесты калькулятора вкладов" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-10-19T23:32:39" hostname="DESKTOP-5PICDTQ" time="0.041">
+  <properties/>
+  <testcase name="Отрицательная ставка вызывает исключение" classname="by.student.deposit.DepositCalculatorTest" time="0.015"/>
+  <testcase name="calculateTotal выбирает режим капитализации" classname="by.student.deposit.DepositCalculatorTest" time="0.002"/>
+  <testcase name="Отчет содержит ключевые поля" classname="by.student.deposit.DepositCalculatorTest" time="0.005"/>
+  <testcase name="Начисленные проценты положительны" classname="by.student.deposit.DepositCalculatorTest" time="0.001"/>
+  <testcase name="Сложные проценты: 1000 BYN, 10%, 3 года = 1331" classname="by.student.deposit.DepositCalculatorTest" time="0.002"/>
+  <testcase name="Нулевая ставка не изменяет сумму" classname="by.student.deposit.DepositCalculatorTest" time="0.002"/>
+  <testcase name="Простые проценты: 1000 BYN, 10%, 3 года = 1300" classname="by.student.deposit.DepositCalculatorTest" time="0.001"/>
+  <testcase name="Отрицательная сумма вызывает исключение" classname="by.student.deposit.DepositCalculatorTest" time="0.001"/>
+  <testcase name="Нулевой срок вызывает исключение" classname="by.student.deposit.DepositCalculatorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
